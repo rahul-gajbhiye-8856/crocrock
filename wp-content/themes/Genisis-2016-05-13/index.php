@@ -10,6 +10,10 @@
  * @license GPL-2.0+
  * @link    http://my.studiopress.com/themes/genesis/
  */
+?>
+<h1>Hello </h1>
+<?php // echo do_shortcode('[masterslider id="1"]'); ?>
+<?php
 
 //* Initialize Genesis
 genesis();
